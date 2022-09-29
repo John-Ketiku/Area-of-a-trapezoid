@@ -1,3 +1,7 @@
+// Created by: John Ketiku
+// Created on: Sept 2022
+// 
+// This program calculates the Area of a trapezoid using numbers that the user inputs.
 game.splash("Let's calculate the area a trapezoid")
 let Base = game.askForNumber("Enter the base1 of trapezoid (cm):")
 let Base_2 = game.askForNumber("Enter the base2 of trapezoid (cm):")
